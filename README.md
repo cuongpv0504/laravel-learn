@@ -16,4 +16,6 @@ DB_PASSWORD=
 ```
 
 ## Add step to develop here
-here
+
+### How to run artisan command
+`docker exec -it app php artisan {command}`
